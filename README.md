@@ -1,2 +1,2 @@
-# barchart
-Created with CodeSandbox
+# D3 Interactive Bar Chart
+
